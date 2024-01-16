@@ -11,5 +11,5 @@ Para entrar a la **página** > https://github.com/lucassierra203/Redes
 
 ```bash
 ls -lah
-cd https://github.com/lucassierra203/Redes
+cd directorio
 ```
